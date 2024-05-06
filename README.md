@@ -71,18 +71,24 @@ plt.title("Customer Segments")
 
 # Output:
 ## data.head()
-![Implementation-of-K-Means-Clustering-for-Customer-Segmentation](1.png)
+![1](https://github.com/kanimozhipannerselvam/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119476060/da2ccdd8-65b1-49c3-bc80-38502cc6e330)
+
 ## data.info
-![Implementation-of-K-Means-Clustering-for-Customer-Segmentation](2.png)
+![2](https://github.com/kanimozhipannerselvam/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119476060/ee0623e9-ce71-45b7-b35a-2bdcf3959e8b)
+
 ## data.isnull.sum()
-![Implementation-of-K-Means-Clustering-for-Customer-Segmentation](3.png)
+![3](https://github.com/kanimozhipannerselvam/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119476060/f8fc5e23-6311-4527-a23c-6da75eed872a)
+
 ## Elbow method Graph
-![Implementation-of-K-Means-Clustering-for-Customer-Segmentation](4.png)
+![4](https://github.com/kanimozhipannerselvam/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119476060/bcd388e8-664e-463c-bdc8-ce641a799cd5)
+
 ## KMeans clusters
-![Implementation-of-K-Means-Clustering-for-Customer-Segmentation](5.png)
-![Implementation-of-K-Means-Clustering-for-Customer-Segmentation](6.png)
+![5](https://github.com/kanimozhipannerselvam/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119476060/394e7408-4ac4-4d5d-8fc8-60f0ca4c4833)
+![6](https://github.com/kanimozhipannerselvam/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119476060/f1a7a8e9-a5aa-4dd7-8ff2-5e4d7e0384ba)
+
 ## Customer segments Graph
-![Implementation-of-K-Means-Clustering-for-Customer-Segmentation](7.png)
+![7](https://github.com/kanimozhipannerselvam/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119476060/b80e2ee7-d3c6-4ffb-85a2-749ffe64b4c0)
+
 
 # Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
